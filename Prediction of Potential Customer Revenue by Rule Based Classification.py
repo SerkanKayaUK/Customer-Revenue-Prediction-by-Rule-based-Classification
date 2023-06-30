@@ -1,8 +1,8 @@
 ########################################################################################################
 #                                                                                                      #
-#  This project has been performed in Data Science Machine Learning Bootcamp at VBO , (c) MIUUL        #
+#            Prediction of Potential Customer Revenue by Rule-Based Classification                     #
 #                                                                                                      #
-#           -     Participant: Dr. Serkan KAYA  , 14 December 2021                                     #
+#                             Dr. Serkan KAYA, 14 December 2021                                        #
 #                                                                                                      #
 ########################################################################################################
 
